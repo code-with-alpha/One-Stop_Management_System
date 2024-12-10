@@ -1,6 +1,6 @@
 # One-Stop Management System
 
-The One-Stop Management System is a comprehensive application developed in C++ to efficiently manage tickets, agents, and operations in a structured and user-friendly way. It uses custom data structures and algorithms, demonstrating an advanced understanding of C++ programming concepts.
+This __One-Stop Management System__ is a comprehensive application developed in C++ to efficiently manage tickets, agents, and operations in a structured and user-friendly way. It uses custom data structures and algorithms, demonstrating an advanced understanding of C++ programming concepts.
 
 # Features
 
