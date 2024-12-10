@@ -1,0 +1,3 @@
+default_sorting_algorithm=insertion_sort
+default_searching_algorithm=linear_search
+threshold=50
